@@ -1,0 +1,14 @@
+C:\Users\aymec\source\repos\eschool\eschool\bin\Debug\net8.0\eschool.exe
+C:\Users\aymec\source\repos\eschool\eschool\bin\Debug\net8.0\eschool.deps.json
+C:\Users\aymec\source\repos\eschool\eschool\bin\Debug\net8.0\eschool.runtimeconfig.json
+C:\Users\aymec\source\repos\eschool\eschool\bin\Debug\net8.0\eschool.dll
+C:\Users\aymec\source\repos\eschool\eschool\bin\Debug\net8.0\eschool.pdb
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\eschool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\eschool.AssemblyInfoInputs.cache
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\eschool.AssemblyInfo.cs
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\eschool.csproj.CoreCompileInputs.cache
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\eschool.dll
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\refint\eschool.dll
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\eschool.pdb
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\eschool.genruntimeconfig.cache
+C:\Users\aymec\source\repos\eschool\eschool\obj\Debug\net8.0\ref\eschool.dll
